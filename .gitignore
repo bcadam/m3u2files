@@ -1,0 +1,9 @@
+# Ignore specific files
+data.m3u
+data-filtered.m3u
+url_config.txt
+archive/
+kubo/
+VOD Files/
+selected_groups.json
+
